@@ -1,1 +1,1 @@
-conv_relu_max_pool visulization.ipynb: Demonstration of the convolutional functions in extracting features in objects.
+1. conv_relu_max_pool visulization.ipynb: Demonstration of the convolutional functions in extracting features in objects.
